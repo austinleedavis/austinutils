@@ -1,8 +1,8 @@
 from setuptools import setup
 
 setup(
-    packages=["neel"],
-    description="Neel's personal utils - you're welcome to use, but this is very badly maintained and commented!.",
+    packages=["austin"],
+    description="Austin's personal utils - you're welcome to use, but this is very badly maintained and commented!.",
     install_requires=[
         "einops",
         "numpy",
@@ -21,6 +21,6 @@ setup(
         "statsmodels"
     ],
     dependency_links=[
-        'git+https://github.com/neelnanda-io/neel-plotly.',
+        'git+https://github.com/austinleedavis/austinutils.',
     ]
 )

@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "neel"
+name = "austin"
 version = "0.1.0"
 description = ""
-authors = ["Neel Nanda <neelnanda27@gmail.com>"]
+authors = ["Austin Davis <austindavis@gmail.com>", "Neel Nanda <neelnanda27@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
